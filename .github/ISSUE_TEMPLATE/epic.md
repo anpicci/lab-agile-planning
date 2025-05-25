@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### Research Objective
+### Epic Objective
 [A one-sentence description of the capability we’re delivering.]
 
 **As a** [Persona/Stakeholder]  
