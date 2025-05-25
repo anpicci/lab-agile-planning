@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-###Research Objective###  
+### Research Objective
 [A one-sentence description of the capability we’re delivering.]
 
 **As a** [Persona/Stakeholder]  
 **I need** [broad feature/capability]  
 **So that** [Enhancement provided by the new feature/capability]
 
-###Scope & Boundaries##  
+### Scope & Boundaries 
 - **In-Scope**:  
   - What is covered with this Epic  
 - **Out-of­-Scope**:  
