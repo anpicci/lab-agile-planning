@@ -6,7 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
 ### Epic Objective
 [A one-sentence description of the capability we’re delivering.]
 
@@ -20,14 +19,14 @@ assignees: ''
 - **Out-of­-Scope**:  
   - What to avoid including in this Epic (even though is tempting)
 
-**Dependencies & Risks**  
+### Dependencies & Risks
 - **Dependencies**:  
   - Any open project
   - Any external necessary dependency
 - **Risks**:  
   - Fallbacks we should pay attention to
 
-**Sub-issues / Tasks**  
+### Sub-issues / Tasks
 1. Story 001 – GH link
 2. Story 002 – GH link
 3. Story 003 – GH link
@@ -48,3 +47,4 @@ Scenario: 2
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
+```
