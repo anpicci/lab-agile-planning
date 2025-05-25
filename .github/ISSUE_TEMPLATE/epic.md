@@ -31,10 +31,8 @@ assignees: ''
 2. Story 002 – GH link
 3. Story 003 – GH link
 
-### Acceptance Criteria
-- KPI: +20% in-app conversions within 3 months  
-- Technical: <200 ms page load under 10k concurrent users  
-- Reproducibility: All deployments via our CI pipeline with zero manual steps
+### Success Criteria
+- What we must achieve to call it a day
 
 #### Epic Scenarios
 ```gherkin
